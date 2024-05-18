@@ -1,0 +1,93 @@
+chapter1
+
+done sum of 2nos
+done area of square
+done area of circle
+
+
+chapter 3
+
+done no is odd even
+done ternary????
+switch???
+
+
+chapter 5
+
+calculate square function
+n fact using recursion
+
+
+chapter 6
+
+pointer
+func call pointer
+swap2nos
+
+
+chapter 7
+
+array
+pointerarithmetic
+accessing array
+
+
+chapter 8
+
+string from array of char
+print str from pointer
+gets puts strcat strcpy strlen
+
+
+chapter 9
+
+structures
+alias names
+array of structures
+structures via pointers
+pointer to arrow structures
+
+
+chapter 10
+
+file handling
+scanf printf getc putc 
+
+hw:
+perimeter of rectangle
+cube of input integer
+average of 3 nos
+smallest of two inputs
+armstrong
+*****
+*****
+*****
+*****
+prime check
+print primes in a range
+sum of digits of input
+sqrt of a number
+pow function manual
+max of two inputs using pointer
+print arr in reverse
+print english alphabet using pointer
+freq of x in arr
+largest in arr
+insert ele at end of arr
+convert lowercase vowels to uppercase in string
+highest frequency char in string
+remove blank spaces from string
+switchcase in string
+Make a system that can store information of all
+students, teachers & staff of your college in the form
+of structures.
+You can also make this into a C Project with other
+functionalities like cgpa calculation of students,
+storing attendance etc.
+read string from file and print to display
+replace data in file with number of vowels in the string
+format information of x students in a table like structure in a file name marks cgpa course
+*********************
+pascal triangle using ncr => n=rownum ; c=combinations ; r =colnum
+pascal triangle using jagged arr
+pascal triangle using nCr+1=nCr* (n-r)/(r+1)
